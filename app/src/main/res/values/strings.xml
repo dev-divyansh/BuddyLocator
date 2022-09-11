@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BuddyLocator</string>
+    <string name="welcome_buddy">Welcome - locate your Buddy</string>
+    <string name="get_started">Connect Now</string>
+    <string name="our_mission">Our Mission </string>
+    <string name="info_message">How to get started ? - help</string>
+    <string name="v_1_0_1_divyansh_pratap_singh">V:1.0.1 - Divyansh Pratap Singh</string>
+    <string name="remember_to_turn_bluetooth_on">Remember to turn Bluetooth On</string>
+    <string name="todo">TODO</string>
+    <string name="help">help</string>
+    <string name="have_query">Have Query ?</string>
+</resources>
